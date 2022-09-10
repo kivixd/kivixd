@@ -28,7 +28,7 @@ I'm Kayra aka Kivi. I'm 19 years old, I've always been hungry for learning and d
 </div>
 
 <h2 align="center">My GitHub Statistics</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kivixd" alt="Wonxen" /> <img src="https://img.shields.io/github/followers/Wonxen?label=follow&style=social" alt="kivixd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kivixd" alt="Wonxen" /> <img src="https://img.shields.io/github/followers/kivixd?label=follow&style=social" alt="kivixd" /> </p>
 <p align="center">
 <a href="https://github.com/kivixd/" target="_blank"><img alt="sup seal gif" src="https://github-readme-stats.vercel.app/api?username=kivixd&theme=dark&show_icons=true&count_private=true&hide_border=true" /></a><br>
 <a href="https://github.com/kivixd/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wonxen&theme=dark&count_private=true&show_icons=true&hide_border=true"/></a>
